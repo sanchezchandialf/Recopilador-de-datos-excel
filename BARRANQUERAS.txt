@@ -1,0 +1,89 @@
+17979637,27399382950,ACOSTA JULIETA MARIEL,362 4778602,julieetaacosta@icloud.com,Chacra 248 Manzana 3 Parcela 018,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17363338,20363904034,ALARCON GONZALO GABRIEL,362 5163376,flom.ojeda@gmail.com,HARDY,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16949767,27294541077,ALMIRON VICTORIA SOLEDAD,362 4223526,sol_almiron@live.com.ar,LAPACHO,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17963930,20335008147,AMARILLA HERNAN E,362 4905791,chingus22.ha@gmail.com,CHILE,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17797727,20286617671,ARCE CRISTIAN GERMAN,362 4620604,cristian_arce81@hotmail.com,JOSE MARMOL,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17365823,27343030911,AZCONA ADRIANA MARIA C,362 4005560,adriana_azcona@outlook.com,LAPACHO,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17588880,27361164682,BAEZ ANDREA B,362 4712607,belbaez35@gmail.com,Nicolas Rojas Acosta,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17997808,20301880538,BAEZ LUIS DANIEL,362 4384303,paladinojaninna@hotmail.com,MZ 126 PC 05,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17838900,20168981806,BAEZ PAULINO,362 4285623,titoopb@gmail.com,NICOLAS ROJA ACOSTA,0,barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18305257,27401779723,BALBUENA NANIO T B,362 4279811,tamarananio@gmail.com,YATAY,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18485275,20369772938,BARRIOS BUOMPADRE GONZALO J,362 4664785,gbarriosbuompadre@gmail.com,SIN NOMBRE,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16952636,27314581968,CACERES GRACIELA MABEL,362 4204542,gracia855@gmail.com,JOSË MARISCAL,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17955774,27225241347,CANTALUPI DANIELA PATRICIA,362 4382202,dancantalupi@hotmail.com,AYACUCHO,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18303835,27364067440,CANTERO MAIRA ALEJANDRA,362 4872506,m.a.canteroy@gmail.com,CEIBO,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16988986,27311098166,CARRASCO SILVANA VANINA,362 4902284,silcarrascotkd@hotmail.com,Lapacho,1199,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17957502,27367748023,CASAFU MARILINA EDITH,362 4804137,marilinacasafu@gmail.com,Nicolas Rojas Acosta,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17972625,20371694405,CENTURION MAXIMILIANO EZEQUIEL,362 4874413,maxi.ecenturion@gmail.com,MZ98 PC 03 BARRIO 120 VIVIENDAS CGT,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18181282,27350374200,CHAVEZ SANDRA CAROLINA,362 4309783,caro.chavez21@gmail.com,ALFEREZ AGUILAR,370,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18176858,27245765873,COLLADO LAURA L,362 4540297,laura_angeles_75@hotmail.com,Chacra 279 Manzana 43 Pc 2,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16953219,27292236803,DIAZ SILVIA GRACIELA,362 4101725,silvitadiaz26@gmail.com,AV FARIAS,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17540037,20294214772,DURAN RAUL ANDRES,362 4694320,raulandresduran@gmail.com,PARC 198 CH 285 SECC D CIRC II,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17595016,20327984404,ESCOBAR SCHREIBER CLAUDIO A,362 4557055,claudio.aim.10@gmail.com,TATANE,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17514758,27262671963,FERNANDEZ CLAUDIA H,362 4387122,claudini_1@hotmail.com,PASAJE CASTELLI (MZ132PC12),0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18036949,27126873560,FRANCO MONICA PATRICIA,362 4512598,monica-franco11@hotmail.com,MIGUEL CANE,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18339715,20337244379,FRANCO VICTOR OSCAR,362 4033029,vfranco88@hotmail.com,ASUNCION,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17535560,23330159219,GALARZA MAXIMILIANO EZEQUIEL,362 4392438,maximilianogalarza87@gmail.com,JOSE MARMOL,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17037698,27329800658,GALIBERT SHIRLI A,362 4779941,anabela.galibert@gmail.com,C: II S: D CH: 285 MZ 132 PC 1,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18012786,27170163074,GANGOSO MIRYAN INES,362 4132939,miryanines@hotmail.com,GUIRALDES,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17469081,27274109179,GARAY CAROLA IRENE,362 4898010,cig_eco@hotmail.com,JUAN B JUSTO,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18349417,20275856860,GAUNA HUGO ARIEL,362 4810382,gaunahugo79@gmail.com,SAAVEDRA,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17792642,27292236552,GODOY YANINA D,362 4229577,yanig1982@gmail.com,GIACHINO PEDRO CAPITAN,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17954307,27393094791,GOMEZ DAIANA LORENA,362 4255169,daia0898@gmail.com,SIN NOMBRE,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17964163,20375846870,GOMEZ IVAN LEONARDO,362 4001054,ivangomez214@gmail.com,MZ 28,0,barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17833143,27377064378,GOMEZ KAREN E,362 4163162,karengomez.93@hotmail.com,CEIBO,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17800115,27329383100,GOMEZ MARIA SOLEDAD,362 4749124,m.soledad.gomez@hotmail.com,BRASIL,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17792548,20360208223,GOMEZ NAHUEL PABLO,362 4226494,nahuelpgomez@gmail.com,Aconquija,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17574176,20377962223,GONZALEZ PEDRO AGUSTIN,362 4898150,gonzalezpedroagustin@gmail.com,PIROVANO,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17233252,23290009774,GUEX ANA DEBORA E,362 4596226,deboraguex@hotmail.com,MANZANA 134 PARCELA 154,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18314332,20288792543,HERMOZA DIEGO ARMANDO,379 4150296,diegohermoza1@hotmail.com,RIO NEGRO,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17478250,27296274238,JAROLIN CINTIA DANIELA,362 4171180,cintiajarolin@icloud.com,LUIS LANDRISCINA,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16991361,27317206408,LOBELOS MARIA PAULA,362 4735064,mpaulalobelos@hotmail.com.ar,AVENIDA FARIAS,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17979311,20338054824,LOPEZ EMILIO ARNALDO,362 4724567,arqemiliolopez@gmail.com,Av Farias,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18301700,20285256810,LOPEZ VALUSSI JOSE LUIS,362 5250249,flacovalussi81@hotmail.com,TIMBO,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18038177,27377082066,LUDUEÑA ADRIANA B,362 4643152,adrilu1661@gmail.com,TIMBO,0,BARRANQUERA,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16996250,20243438749,LUQUE DIEGO JAVIER,362 4681713,djluque39@gmail.com,LAPACHO,485,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18004500,27318114140,LUQUE YAMILA LILIANA,362 4827254,yamilaluque@hotmail.com,NICOLAS ROJAS ACOSTA,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18356532,27340559725,MAIDANA VALERIA ELIZABETH,362 5261113,valemaidana@live.com.ar,BROWN,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17959674,20326206440,MARTEARENA LEANDRO ERNESTO,11 32903190,leandroerma_85@hotmail.com,publica,11,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17828575,20313969631,MARTINEZ GUSTAVO ORLANDO,362 4386752,lucreciagracielamartinez@gmail.com,RIO GALLEGOS,0,PUERTO VILELAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17467401,20397770398,MARTINEZ MAXIMILIANO GUILLERMO,362 4315324,maxymartinez01@gmail.com,RIO GALLEGOS,0,PUERTO VILELAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17856738,27262671548,MARTINEZ SILVIA ELENA,362 4317725,linkasil1@gmail.com,PASAJE 1 (CASTELLI),0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18349287,20381909728,MELENDEZ JUAN IGNACIO,362 4680727,juani_melendez@hotmail.com,FRANKLIN,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18349389,20280021319,MONZON CARLOS ALBERTO,362 4746613,nigercarlos@gmail.com,ESQUIU MAMERTO,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17803980,23279964489,MUÑOZ RICARDO GABRIEL,362 4200179,moniesquivel2009@gmail.com,brasil,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17360867,27307055320,OBREGON ANTONIA MARIELA,362 4727318,mariela_soy@hotmail.com,CARLOS BOGGIO,0,barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18028220,23303911979,OJEDA LAZARO EMANUEL,362 4883544,lazaroemanuel83@gmail.com,FORTIN ALVARADO Y LAPACHO,0,barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17976281,20265218246,OLIVERA CARLOS DANIEL,362 4022000,carlos-dani@live.com.ar,PIROVANO,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17789186,23412274954,PARRA MARIA JULIA,362 4174991,mjuliaparra@gmail.com,Lapacho,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18299481,27265086824,PROCHOTSKY PATRICIA DEL CARMEN,362 4609781,sargentoprochotsky@hotmail.com,SIN NOMBRE,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17806332,20215462650,RAMIREZ CARLOS FRANCISCO,362 4970846,piraramirez2015@hotmail.com,ALMIRANTE BROWN,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18363751,20379752676,RAMIREZ LEONARDO JOSE,362 4924493,joseramireez.7@gmail.com,RIO PARANA,0,PUERTO VILELAS ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17026889,20328786665,RIOS GERARDO GERMAN,362 4709877,gerarios26@gmail.com,Manzana 133,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17169212,23292235119,RIOS NESTOR ADRIAN,362 4220691,arios@familiabercomat.com,Barrio UCAL,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17577231,27294505313,RIVERO NANCY GRISELDA,362 4749741,nancyriveromusica@gmail.com,MZ 132,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17969154,20427894283,RIVEROS SERGIO GABRIEL,362 5255932,sergioriveros200@gmail.com,LA MADRID,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18355939,20285106150,ROLON LEONARDO MARTIN,362 4756600,leo_rolon@hotmail.com,SIN NOMBRE,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17968658,20297267427,ROMERO FRANCISCO ARIEL,362 4880355,franciromero1@outlook.com,FACUNDO QUIROGA,0,PUERTO VILELAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17828005,20265403353,ROMERO JUAN JOSE,362 4868101,juanjoseromero2803@gmail.com,AVENIDA FARIAS,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17790730,20360185142,ROMERO JUAN RAMON,362 4686052,juanrakun@gmail.com,Calle interna ucal mz 44 parc 12,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18313113,20331723437,ROMERO MARIO DANIEL,362 4242229,mariocena000@gmail.com,DEMOCRACIA,0,Puerto vilelas ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18154120,20305808009,RUBER MARCOS ARIEL,362 4204220,rubermarkos@hotmail.com,GUIRALDES,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17964757,20322664576,SAMPIERI CANTEROS RODRIGO M,362 4815297,sampieri.rs@gmail.com,YATAY,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18340246,27369723710,SANCHEZ CATALINA MICAELA,362 4128980,miica-sanchezz@hotmail.com,PASAJE CASTELLI,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17201083,20361973888,SANCHEZ PAVICICH W M,362 4222999,maxisanchezpavicich@gmail.com,CARLOS HARDY,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18322940,20345173987,SANDOVAL MARCELO ALEJANDRO,362 4153561,sandovalmarceloalejandro@gmail.com,TIMBO,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17482884,27330721044,SEJAS MARIANA NOEMI,362 4669264,mariana_sejas09@live.com.ar,B UOM,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16997168,20244561765,SIKORA HUGO ROLANDO,362 4850391,gunchisik@gmail.com,BRIOLINI,4465,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16954285,27281256470,SIMONIT VERA MARIA CARLA,11 66229000,carlasimonit@hotmail.com,CHACRA 248; MANZANA 13; PARCELA 7,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17400726,20356896700,SOTO ELIAS SEBASTIAN,362 4222889,eliassebastiansoto@gmail.com,LAPACHO,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17874086,27369772525,TOFFOLETTI MARIA B,362 4829545,toffolettibelen1992@gmail.com,MANZANA 94 PC 7 BARRIO CGT 120 VIV,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18322404,20329384196,TORRES CLAUDIO IVAN,362 4854444,carp14_34@hotmail.com,ZORRILLA LEON,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17017639,27338028046,TORRES IVANA MARIELA,362 4612061,cra.marielatorres@gmail.com,AV. EDISON,4190,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18345907,20391773220,TRONCOSO MARIANO NICOLAS,362 4930028,mariano.nicolas.troncoso@gmail.com,PASAJE CEIBO,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17963536,27360202890,VALDEZ JESSICA SUSANA,362 4387888,jessibrianni1202@gmail.com,GABARDINI,0,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+18022904,20335008031,VARGAS ANGEL ERNESTO D,362 4777994,litoynadamas@gmail.com,TATANE,0,Barranqueras ,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+16970157,20302150142,VILLA PABLO J,362 4787499,pabloencalafate@gmail.com,CÓRDOBA,5035,BARRANQUERAS,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17791471,27401779901,VILLAN DANIELA M,362 4308884,danielamvillan@gmail.com,Manzana 93 Parcela 5,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17794437,20400332577,ZARACHO ELIAS OSCAR,362 4074110,elias130816@gmail.com,AVENIDA CASTELLI,0,Barranqueras,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+17806722,20224373075,ZARCO GABRIEL DARIO,362 4795558,zarcozarco@hotmail.com,CIRC II SEC D CH 279 MZ 44 PC 24,0,SAN FERNANDO,BARRANQUERAS,CHACO,None,None,None,None,None,None,None,None,None,None,None,None,None,None
